@@ -1,3 +1,6 @@
+# This is just a fork, won't update anything
+----
+
 # SeaweedFS
 
 [![Build Status](https://travis-ci.org/chrislusf/seaweedfs.svg?branch=master)](https://travis-ci.org/chrislusf/seaweedfs)
